@@ -3,12 +3,20 @@ import React from "react";
 const experiences = [
   {
     title: "Summer Internship Programme at NIT Warangal",
-    company: "TechCorp Solutions",
+    
     date: "May 2024 - July 2024",
     description:
       "Explored machine learning datasets and algorithms, and successfully completed an image colorization project using AI/ML through collaborative teamwork.",
-    tags: ["Machine Learning"],
+    tags: ["Machine Learning","Python"],
   },
+  {
+  title: "Centific Days AI Hackathon",
+  date: "April 2026 – May 2026",
+  company: "Centific",
+  description:
+    "Developed an AI-powered Project Management Agent to assist project delivery managers in automating project planning, task tracking, progress monitoring, risk identification, and delivery coordination.",
+  tags: ["Python", "Artificial Intelligence", "AI Agents", "LLMs", "Automation"],
+},
  
 ];
 
@@ -24,8 +32,8 @@ const education = [
     title: "Bachelor of Computer Science",
     company: "SR UNIVERSITY WARANGAL",
     date: "2022 - 2026",
-    CGPA:"CGPA : 9.13",
-    tags: ["Data Structures", "Algorithms", "Software Engineering"],
+    CGPA:"CGPA : 9.15",
+    tags: ["Data Structures", "Algorithms", "Software Engineering","Artificial intelligence (AI)"],
   },
 
   
